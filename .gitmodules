@@ -232,3 +232,6 @@
 [submodule "pi22-4/boikova"]
 	path = pi22-4/boikova
 	url = https://github.com/boikova2604/boikova
+[submodule "kuk"]
+	path = kuk
+	url = https://github.com/hukamobeta/kuk.git
