@@ -1,0 +1,20 @@
+{
+    "": {
+        "password": "",
+        "quota": 104857600,
+        "used": 0,
+        "role": "user"
+    },
+    "1": {
+        "password": "huka",
+        "quota": 104857600,
+        "used": 0,
+        "role": "user"
+    },
+    "qwert": {
+        "password": "qwert",
+        "quota": 104857600,
+        "used": 2048,
+        "role": "user"
+    }
+}
